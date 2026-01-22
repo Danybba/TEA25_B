@@ -5,4 +5,3 @@
 Jannik Ast
 =======
 Daniel Schäftner
->>>>>>> f84600a6273c5c7fe5f05f10ff3da7e057abb23c
