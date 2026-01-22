@@ -1,7 +1,9 @@
-<<<<<<< HEAD
-
-
-
 Jannik Ast
 =======
 Daniel Schäftner
+=======
+Daniel Schäftner
+Lukas Helfer
+Adrian Matijasevic
+Harun G Smriko
+>>>>>>> ed5cc03923875c4d9fe928194eac21631e5e744c
