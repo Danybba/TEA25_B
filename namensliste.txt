@@ -8,3 +8,4 @@ Lukas Helfer
 Marvin Gorbach
 Adrian Matijasevic
 Jakub Waschow
+David Trupp
