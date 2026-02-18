@@ -5,9 +5,8 @@ Daniel Schäftner
 Daniel Schäftner
 Lukas Helfer
 Adrian Matijasevic
-<<<<<<< HEAD
-=======
 Harun G Smriko
->>>>>>> ed5cc03923875c4d9fe928194eac21631e5e744c
->>>>>>> 8cc454afb5a8b44837336d11556c764c85d205e8
-Anton Gebauer Coder
+Anton Gebauer Coder 
+Mohammadreza Ghasemi
+
+
