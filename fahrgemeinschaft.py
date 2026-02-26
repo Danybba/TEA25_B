@@ -5,11 +5,11 @@ ride_price = 0
 final_price = 0 
 
 if ride_type == "plus": 
-    ride_price = 20.5
+    ride_price = 20.577
 elif ride_type == "comfort":
-    ride_price = 37.9
+    ride_price = 37.977
 else:
-    ride_price = 18.7
+    ride_price = 18.777
 
 if credits_available > 0:
     final_price = ride_price - credits_available
