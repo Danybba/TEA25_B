@@ -8,7 +8,7 @@ while True:
     op = input("Operation (+, -, *, /, **, sqrt): ").strip().lower()
 
     if op == "q":
-        print("Tschüss 👋")
+        print("Tschüss ")
         break
 
     if op == "sqrt":
@@ -41,3 +41,4 @@ while True:
         result = a ** b
 
     print(f"Ergebnis: {a} {op} {b} = {result}\n")
+
