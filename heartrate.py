@@ -18,3 +18,10 @@
 - Dafür starten wir mit der Ausgabe des Textes "Heart rate high:" in der Console
 - Jetzt geben wir den Wert too_high in der Console aus. 
 """
+
+heart_rate = 77
+too_low = heart_rate < 60
+too_high = heart_rate > 100
+
+print("Heart rate low:", too_low)
+print("Heart rate high:", too_high)
