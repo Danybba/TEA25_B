@@ -11,21 +11,26 @@
 # print("This is my first Python code")
 # print("I am learning Python")
 
-# snake_case_variable = 25
-# CamelCaseVariable = 25
+snake_case_variable = 25
+CamelCaseVariable = 25
 
 # var_1 = 25
 # var_2 = 25 
 
-variable = 25
+# variable = 25
 # variable = 30.5
 # variable = "Text"
+variable = False
 
-vorname = "Daniel "
-nachname = "Schäftner"
+print(not variable)
 
-gesamter_name = vorname + nachname
+# vorname = "Daniel"
+# nachname = "Schäftner"
 
-summe = variable + variable
+# gesamter_name = vorname + nachname
 
-print(summe)
+# print(gesamter_name)
+
+# # summe = vorname + variable
+
+# print(vorname, nachname, variable)
